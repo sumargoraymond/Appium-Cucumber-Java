@@ -13,3 +13,10 @@ How to run:
 Settings:
 1. Test cases to be run should be included in `TestSuitesTests.xml`
 2. Select parallel execution thread counts for parallel execution
+
+# Demo
+
+***Execution of Login Logout Test***
+
+![Demo execution on apps](https://im2.ezgif.com/tmp/ezgif-2-232156e7e7b0.gif)
+
