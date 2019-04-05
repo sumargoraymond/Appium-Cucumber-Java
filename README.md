@@ -1,5 +1,4 @@
 # appium-cucumber-tdd
-Sample Appium Tests using Cucumber and Non Cucumber
 
 This automated test project supports running both cucumber and plain java code tests
 
