@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Test-Suite" parallel="tests" thread-count="2">
+
+  <test name="Test-Samsung">
+        <parameter name="deviceName" value="2aba4aacac3f7ece" />
+        <parameter name="platformVersion" value="9" />
+        <classes>
+            <class name="tests.user.TestLogin" />
+        </classes>
+    </test>
+
+    <!--<test name="Test-LG-G6" parallel="classes" thread-count="5">-->
+        <!--<parameter name="deviceName" value="LG-G6" />-->
+        <!--<parameter name="platformVersion" value="8" />-->
+        <!--<classes>-->
+            <!--<class name="tests.cucumber.tests.RunCucumberFeatures" />-->
+        <!--</classes>-->
+    <!--</test>-->
+
+    <!--<test name="Test-LG-G6" parallel="classes" thread-count="3">-->
+        <!--<parameter name="deviceName" value="LG-G6" />-->
+        <!--<parameter name="udid" value="192.168.0.25:5657" />-->
+        <!--<parameter name="platformVersion" value="8" />-->
+        <!--<classes>-->
+            <!--<class name="tests.user.TestLogin" />-->
+        <!--</classes>-->
+    <!--</test>-->
+</suite>
