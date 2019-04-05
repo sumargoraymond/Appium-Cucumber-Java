@@ -1,6 +1,0 @@
-tests/cucumber/tests/RunCucumberFeatures.class
-tests/BaseTest.class
-tests/cucumber/steps/BaseSteps.class
-tests/user/TestLogin.class
-tests/cucumber/steps/LoginSteps.class
-tests/ThreadLocalDriver.class
