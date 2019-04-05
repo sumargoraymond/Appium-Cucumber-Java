@@ -18,5 +18,8 @@ Settings:
 
 ***Execution of Login Logout Test***
 
-![Demo execution on apps](https://im2.ezgif.com/tmp/ezgif-2-232156e7e7b0.gif)
+![Demo execution on apps](https://github.com/sumargoraymond/appium-cucumber-tdd/blob/master/appium-cucumber-tdd/demo/apps720gif.gif)
 
+# Full Demo
+
+Full demo execution can be found [here](https://github.com/sumargoraymond/appium-cucumber-tdd/tree/master/appium-cucumber-tdd/demo)
